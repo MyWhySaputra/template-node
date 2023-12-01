@@ -1,1 +1,2 @@
-# template-node
+## install
+- npm i
